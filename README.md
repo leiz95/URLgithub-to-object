@@ -1,9 +1,9 @@
-# URLgithub-to-object
+# urlgithub-to-object
 
 A module for node.js and browsers that extracts useful properties like `user`,
 `repo`, and `branch` from various flavors of GitHub URLs.
 
-There's also a Bitbucket equivalent to this library: [URLgithub-to-object](https://github.com/leiz95/URLgithub-to-object.git).
+There's also a Bitbucket equivalent to this library: [urlgithub-to-object](https://github.com/leiz95/urlgithub-to-object.git).
 
 
 ## Installation
@@ -11,13 +11,13 @@ There's also a Bitbucket equivalent to this library: [URLgithub-to-object](https
 For Node.js or Browserify usage:
 
 ```sh
-npm i URLgithub-to-object
+npm i urlgithub-to-object
 ```
 
 For bower usage:
 
 ```sh
-bower install URLgithub-to-object
+bower install urlgithub-to-object
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ bower install URLgithub-to-object
 Use whatever flavor of GitHub URL you like:
 
 ```js
-const gh = require('URLgithub-to-object')
+const gh = require('urlgithub-to-object')
 
 gh('github:example/business')
 gh('https://github.com/example/business')
