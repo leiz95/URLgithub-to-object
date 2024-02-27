@@ -24,7 +24,8 @@
         "url": "https://github.com/leiz95/URLgithub-to-object/issues"
     },
     "dependencies": {
-        "is-url": "^1.1.0"
+        "is-url": "^1.1.0",
+        "markdown-expands-tab": "^1.0.2"
     },
     "devDependencies": {
         "browserify": "^13.0.1",
