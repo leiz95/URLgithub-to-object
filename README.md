@@ -75,7 +75,6 @@ gh('github:example/business#nachos')
 
 If you provide a non-GitHub URL or a falsey value, you'll get `null`.
 
-
 ## Test
 
 ```sh
