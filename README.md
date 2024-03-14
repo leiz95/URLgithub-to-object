@@ -3,8 +3,6 @@
 A module for node.js and browsers that extracts useful properties like `user`,
 `repo`, and `branch` from various flavors of GitHub URLs.
 
-There's also a Bitbucket equivalent to this library: [urlgithub-to-object](https://github.com/leiz95/urlgithub-to-object.git).
-
 
 ## Installation
 
