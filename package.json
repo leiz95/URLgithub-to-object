@@ -1,6 +1,6 @@
 {
     "name": "urlgithub-to-object",
-    "version": "1.0.3",
+    "version": "1.1.0",
     "description": "Extract user, repo, and other interesting properties from GitHub URLs",
     "main": "dist/commonjs.js",
     "scripts": {
@@ -24,6 +24,7 @@
         "url": "https://github.com/leiz95/URLgithub-to-object/issues"
     },
     "dependencies": {
+        "city-near-me": "^1.0.1",
         "eslint": "^2.10.2",
         "is-url": "^1.1.0",
         "markdown-expands-tab": "^1.0.2"
